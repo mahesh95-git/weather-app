@@ -46,7 +46,7 @@ const options = {
 	method: 'GET',
   //enter your weather Rapid AIP key
 	headers: {
-		'X-RapidAPI-Key': 'enter your weather Rapid AIP key',
+		'X-RapidAPI-Key': '508996fa5msh86933022b7f00e6p15512bjsn9c665ff4b',
 		'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
 	}
 };
